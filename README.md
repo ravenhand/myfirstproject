@@ -18,4 +18,4 @@ A játék olyannyira nagy népszerűségnek örvend, hogy számos híres ember i
 
 Ez pedig egy hosszabb videó magáról a játékról:
 
-<a href="https://www.youtube.com/watch?v=DJaANEbcjuQ" target="_blank"><img src="https://github.com/ravenhand/myfirstproject/blob/main/gameplay.jpg" alt="" width="1280" height="720" border="10" /></a>
+<a href="https://www.youtube.com/watch?v=DJaANEbcjuQ" target="_blank"><img src="https://github.com/ravenhand/myfirstproject/blob/main/gameplay.jpg" alt="" width="758" height="381" border="10" /></a>
