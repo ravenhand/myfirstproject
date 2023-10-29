@@ -4,4 +4,6 @@
 
 A játék az **MMORPG** stílust alkalmazza, ami annyit jelent, hogy online internet kapcsolatot igényel, ezáltal több százan vagy ezren is játszhatják egy időben a játékot. Rendszeres előfizetést kell fizetni a játékért.
 
-Jelenleg 8.1 millió aktív előfizetője van a játéknak világ szerte, ezzel a legnépszerűbb a műfaján belűl a világon.
+Jelenleg **8.1 millió** aktív előfizetője van a játéknak világ szerte, ezzel a legnépszerűbb a műfaján belűl a világon.
+
+Pár ingame kép: 
