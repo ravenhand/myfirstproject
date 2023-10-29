@@ -8,6 +8,6 @@ Jelenleg **8.1 millió** aktív előfizetője van a játéknak világ szerte, ez
 
 Pár ingame kép: 
 
-https://github.com/ravenhand/myfirstproject/blob/main/wow_ingame_1.png
+![alt text](https://github.com/ravenhand/myfirstproject/blob/main/wow_ingame_1.png)
 https://github.com/ravenhand/myfirstproject/blob/main/wow_ingame_2.jpg
 https://github.com/ravenhand/myfirstproject/blob/main/wow_ingame_3.jpg
