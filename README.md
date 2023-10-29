@@ -1,4 +1,4 @@
-# A World of Warcraft bemutatása. ![alt text](C:\Users\Eddie\Desktop\tesztautomatizálo23h2\project\WoW_icon.svg)
+# A World of Warcraft bemutatása. ![alt text](C:\Users\Eddie\Desktop\tesztautomatizálo23h2\project\wow-logo.jpg)
 
 ### A World of Warcraft egy 2004-ben megjelent nagyon sok szereplős online szerepjáték. A nagy sikerű Warcraft sorozat játék folytatása.
 
