@@ -15,3 +15,8 @@ Pár ingame kép:
 A játék olyannyira nagy népszerűségnek örvend, hogy számos híres ember is játszik vele, mint például Vin Diesel, Mila Kunis, Henry Cavil, Ronda Rousey. Ezt természetesen a játék fejlesztői is nagy becsben tartják, így ezt a tiszteletük jeléűl bele rakják őket nem játékos karakterként.
 
 ![alt text](https://github.com/ravenhand/myfirstproject/blob/main/mina-kunis.png)
+
+Ez pedig egy hosszabb videó magáról a játékról:
+
+<a href="https://www.youtube.com/watch?v=DJaANEbcjuQ" target="_blank"><img src="http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg" 
+alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
