@@ -11,3 +11,6 @@ Pár ingame kép:
 ![alt text](https://github.com/ravenhand/myfirstproject/blob/main/wow_ingame_1.png)
 ![alt text](https://github.com/ravenhand/myfirstproject/blob/main/wow_ingame_2.jpg)
 ![alt text](https://github.com/ravenhand/myfirstproject/blob/main/wow_ingame_3.jpg)
+
+A játék olyannyira nagy népszerűségnek örvend, hogy számos híres ember is játszik vele, mint például Vin Diesel, Mila Kunis, Henry Cavil, Ronda Rousey. Ezt természetesen a játék fejlesztői is nagy becsben tartják, így ezt a tiszteletük jeléűl bele rakják őket nem játékos karakterként.
+
